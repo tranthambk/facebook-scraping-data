@@ -4,7 +4,6 @@
 *.old
 group_results
 page_results
-backup
 cookies/*
 log*
 json
@@ -141,3 +140,4 @@ dmypy.json
 
 html/*
 .venv/*
+
